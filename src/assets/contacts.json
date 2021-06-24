@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "photo": "../images/bulatow.jpg",
+    "name": "Булатов Евгений",
+    "description": "Знаю HTML, CSS, Базовый JS (массивы, объекты, условия, циклы и функции), слегка DOM и Jquery, а в остальном уже плаваю))"
+  },
+  {
+    "id": 2,
+    "photo": "../images/husonka.jpg",
+    "name": "Dmytro Husonka",
+    "description": "experience with JS, React.js. Deep level of knowledge of HTML, CSS, SCSS, some experience with PHP, Java 8. English - B2."
+  },
+  {
+    "id": 3,
+    "photo": "../images/kovalchuk.jpg",
+    "name": "Ковальчук Віктор",
+    "description": "Навички: - користувач ПК; - знання HTML • CSS • AJAX • RestAPI • React.js •NODE.js  - Eanglish level: B2"
+  },
+  {
+    "id": 4,
+    "photo": "../images/proton.jpg",
+    "name": "Proton Nazar",
+    "description": "experience with JS, React.js. Deep level of knowledge of HTML, CSS, SCSS, English - B2."
+  },
+  {
+    "id": 5,
+    "photo": "../images/tatochenko.jpg",
+    "name": "Dima Tatochenko",
+    "description": "HTML,CSS,SCSS,JS,React,English:pre-intermidiate"
+  },
+  {
+    "id": 6,
+    "photo": "../images/tigran.jpg",
+    "name": "Davidov Tigran",
+    "description": "experience with JS, React.js. Deep level of knowledge of HTML, CSS, SCSS, C++,English - B2"
+  },
+  {
+    "id": 7,
+    "photo": "../images/tykhoniuk.jpg",
+    "name": "Vladyslav Tykhoniuk",
+    "description": "lol what i must write these."
+  },
+  {
+    "id": 8,
+    "photo": "../images/tymofieewa.jpg",
+    "name": "Timofieieva Maria",
+    "description": "experience with JS, React.js. Deep level of knowledge of HTML, CSS, SCSS,C#,C++,Python,English - B2"
+  },
+  {
+    "id": 9,
+    "photo": "../images/Juravlevich.jpg",
+    "name": "Pavel Zhuravlevich",
+    "description": "I have alcohol and drug problems but I am breaking my head right now with react js."
+  },
+  {
+    "id": 10,
+    "photo": "../images/levchenko.jpg",
+    "name": "Левченко Сергей",
+    "description": "- HTML  - CSS  - SCSS - JavaScript - English level: B2"
+  },
+  {
+    "id": 11,
+    "photo": "../images/Romanenko.jpg",
+    "name": "Artem Romanenko",
+    "description": "HTML, CSS - strong; JS - middle;  jQuery - middle;  English - C1;"
+  },
+  {
+    "id": 12,
+    "photo": "../images/lapeta.jpg",
+    "name": "Lapeta Viktoriya",
+    "description": "HTML, CSS, JS - начинающий English - В1"
+  }
+]
